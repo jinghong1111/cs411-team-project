@@ -4,31 +4,33 @@ Front end:
 Html
 Css 
 Js 
+
 Frameworks:
-Angular?
+Angular
 React 
 Express 
+
 Back end: 
 Python
 Js
 java
+
 Framework:
 Flask (python pref) 
 Django
 mongoDB 
 MySQL
 
-The nearest coffee store 
-MBTA? 
-Lowest price online purchase 
-Book by the closest library 
-organize/arrange Spotify liked songs based on BPM
-list ingredients you have available and returns list of recipes you can make (food api)
-No 2 end interaction 
-Shows flights depending on preferred flight price and temp
-Insert keyword and returns books/movies that are a match
-
-
+Current ideas:
+- The nearest coffee store 
+- MBTA? 
+- Lowest price online purchase 
+- Book by the closest library 
+- organize/arrange Spotify liked songs based on BPM
+- list ingredients you have available and returns list of recipes you can make (food api)
+- No 2 end interaction 
+- Shows flights depending on preferred flight price and temp
+- Insert keyword and returns books/movies that are a match
 
 
 API 101: 
@@ -36,10 +38,6 @@ API 101:
 Test api with: Postman
 
 Stock photos: Pexels 
-
-
-
-
 
 
 The Nearest Coffee Store 
@@ -70,7 +68,6 @@ Database: google map,
 At least 2 APIs: 
 Mbta api 
 Map api 
-
 
 
 Third party authentication/login: 
