@@ -1,1 +1,106 @@
+Language: python, javascript, HTML, CSS 
+
+Front end: 
+Html
+Css 
+Js 
+Frameworks:
+Angular?
+React 
+Express 
+Back end: 
+Python
+Js
+java
+Framework:
+Flask (python pref) 
+Django
+mongoDB 
+MySQL
+
+The nearest coffee store 
+MBTA? 
+Lowest price online purchase 
+Book by the closest library 
+organize/arrange Spotify liked songs based on BPM
+list ingredients you have available and returns list of recipes you can make (food api)
+No 2 end interaction 
+Shows flights depending on preferred flight price and temp
+Insert keyword and returns books/movies that are a match
+
+
+
+
+API 101: 
+
+Test api with: Postman
+
+Stock photos: Pexels 
+
+
+
+
+
+
+The Nearest Coffee Store 
+Quickly and easily find the best local coffee shop nearby. This app lets you find the closest coffee shop with the shortest waiting time. You can also pay and order ahead of time. 
+Database: google map 
+
+At least 2 APIs: 
+Grub hub 
+Map Api 
+Yelp Api (for rating)
+
+Third party authentication/login: 
+Grub hub login 
+Yelp login 
+
+Architecture: 
+Front end: website for inputting the information from google map, the user’s demand for the type of drinks or food, and an estimated ETA for when the user would like to have the food. 
+Html
+Js
+Css 
+Back end: databases that collect the user's input information and interact with the APIs to obtain the necessary information to locate the nearest coffee store with the highest rating, and lowest estimate-time for orders. 
+
+
+Nearest transportation with the fastest arrival time to the destination 
+This app lets you plan your trip and search for real-time arrival information at any bus strop or train station. 
+Database: google map, 
+
+At least 2 APIs: 
+Mbta api 
+Map api 
+
+
+
+Third party authentication/login: 
+Google login 
+
+Architecture: 
+1. Front end: website for inputting the information from google map, the user’s final destination and an estimated traveling time and cost. 
+Html
+Js
+Css 
+Back end: databases that collect the user's input information and interact with the APIs to obtain the necessary information to find the best route with the shortest traveling time and lowest estimate-cost. 
+
+
+
+Lowest price online purchase 
+This app allows you to compare prices for products sold by various retailers. You can type in the product name to find your product. The price comparison tool will show you a list of retailers who are selling the same product, and how much they’re selling it for. 
+
+Database: 
+
+At least 2 APIs: 
+Azure retail prices
+PayPal API
+
+Third party authentication/login: 
+Paypal account
+
+1. Front end: website for inputting the information, the user can type the product name and the app will provides information for the estimated cost across different ecommerce websites to help them find the best deal.
+Html
+Js
+Css 
+2.Back end: databases that collect the user's input information and interact with the APIs to obtain the necessary information to find the best available for the products. 
+
 
